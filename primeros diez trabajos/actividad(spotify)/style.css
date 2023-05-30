@@ -1,0 +1,77 @@
+body{
+    background: rgba(121, 17, 90, 0.863);
+    background: linear-gradient(90deg, rgb(156, 36, 156) 0%, rgba(182, 32, 132, 0.72) 100%, rgb(177, 38, 79) 100%);
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+*{
+    margin: o;
+    padding: 0;
+}
+.playlist{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(128,13,109,0.773546918767507) 42%, rgba(136,0,255,1) 72%);
+    height: 19pc; 
+    display: flex;
+    justify-content: center;
+}
+.foto{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+.info-playlist{
+  font-size: 15px;
+  color: aliceblue;
+}
+.lista-titulo{
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.cancion{
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    display: flex;
+    color: aliceblue;
+    justify-content: space-around;
+}
+.numeracion{
+    display: flex;
+    float: left;
+    padding-right: 10px;
+    list-style: none;
+}
+.imgt1{
+    display: flex;
+    width: 75px;
+    height: 75px;
+}
+.nombre{
+    display: flex;
+    list-style: none;
+    margin-left: 8pc;
+    font-family: 'Roboto', sans-serif;
+}
+.album{
+    display: flex;
+    margin-left: 30pc;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+.cora span{
+    display: flex;
+    margin-left: 56pc;
+}
+.tiempo-duracion{
+    display: flex;
+    margin-left: 75pc;
+    font-family: 'Roboto', sans-serif;
+}

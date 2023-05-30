@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+* {
+    margin: 10;
+    padding: 5;
+    font-family: 'Instrument Serif', serif;
+}
+body {
+
+    background-color: #C0DBEA
+}
+.hard {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+.usuario{
+    display: flex;
+    justify-content: start;
+    font-size: 30px;
+}
+.hora{
+    display: flex;
+    justify-content: end;
+}
+.todo{
+   text-align: center;
+   font-size: 35px;
+}
+.perfil{
+    font-size: 30px;
+}
+

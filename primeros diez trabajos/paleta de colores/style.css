@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(245, 4, 116, 0.925) ;
+}
+.principal{
+    display: flex;
+    justify-content: space-around;
+}
+.titulo{
+    background-color: rgba(102, 20, 65, 0.925);
+    border: solid 3px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.titulo{
+    background-color:rgba(102, 20, 65, 0.925) ;
+    text-align: center;
+}
+.morado{
+    background-color: #5F264A;
+    list-style: none;
+    text-align: center;
+}
+.morado1{
+    background-color:#643A6B ;
+    list-style: none;
+    text-align: center;
+}
+.morado2{
+    background-color: #957777;
+    list-style: none;
+    text-align: center;
+}
+.morado3{
+    background-color:#BA90C6 ;
+    list-style: none;
+    text-align: center;
+}
+.morado4{
+    background-color:#F5C6EC ;
+    list-style: none;
+    text-align: center;
+}
+.naranja{
+    background-color: rgb(255, 175, 3);
+    list-style: none;
+    text-align: center;
+}
+.naranja1{
+    background-color: rgb(214, 149, 8);
+    list-style: none;
+    text-align: center;
+}
+.naranja2{
+    background-color: rgb(136, 97, 13);
+    list-style: none;
+    text-align: center;
+}
+.naranja3{
+    background-color: rgb(100, 73, 13);
+    list-style: none;
+    text-align: center;
+}
+.naranja4{
+    background-color: rgb(92, 66, 11);
+    list-style: none;
+    text-align: center;
+}
+.azul{
+   background-color:#0C134F ;
+   list-style: none;
+   text-align: center;
+}
+.azul1{
+    background-color:#1D267D ;
+    list-style: none;
+    text-align: center;
+}
+.azul2{
+    background-color: #5C469C;
+    list-style: none;
+    text-align: center;
+}.azul3{
+    background-color:#8294C4;
+    list-style: none;
+    text-align: center;
+}.azul4{
+    background-color:#B8E7E1 ;
+    list-style: none;
+    text-align: center;
+}
+.paleta{
+    border: solid 4px;
+    border-radius: 10px;
+    width: 150px;
+    background-color: rgb(63, 3, 3);
+}
+
+
+    
+

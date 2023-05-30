@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+*{
+    margin: auto;
+    padding: px;
+    text-align: center;
+}
+.info-contenedor{
+    background-color: chocolate;
+    border: solid px black;
+    text-align: center;
+    display: flex;
+}
+.articulo{
+    border: px solid black;
+    background-color:lightslategrey;
+    font-size: 25px;
+    font-family:fantasy ;
+}
+.parrafo{
+    border: solid 1px #fff;
+    font-family:'Rajdhani', sans-serif; ;
+}
+.imagen{
+
+}
+    
+
+
+    

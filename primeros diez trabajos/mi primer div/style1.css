@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: cornflowerblue;
+}
+.navegador{
+    background-color: blue;
+    display: flex;
+    justify-content: end;
+    font-size: 30px;
+}
+.mi-nombre{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family: fantasy;
+}
+.mi-titulo{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: 15px;
+}
+.presentacion{
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.blo{
+    text-align: center;
+    font-size: 25px;
+}
+.pais{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    font-family: fantasy;
+}
+.foto img{
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+
